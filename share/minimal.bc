@@ -1,0 +1,37 @@
+basic-vm-1.0
+These are 6 comment lines for illustration.
+
+You might write anything here.
+For example the invocation command and/or date.
+
+N_factorials N_input_real N_tmp_real N_tmp_cmplx N_output_cmplx
+4 1 3 1 1
+Factorial table
+1
+1
+2
+6
+Instructions
+0 0 0 0 0
+1 1 1 1 0
+1 1 -1 2 0
+1 1 1 3 0
+1 1 -1 4 0
+0 0 0 0 0
+1 2 1 1 0
+1 2 1 2 0
+1 2 1 4 0
+1 2 1 8 0
+0 0 0 0 0
+1 3 1 1 0
+1 3 2 2 0
+1 3 3 4 0
+1 3 4 8 0
+0 0 0 0 0
+2 1 1 0 1
+2 1 1 1 2
+2 1 1 2 3
+2 1 1 3 4
+0 0 0 0 0
+3 1 1 2 3
+0 0 0 0 0
